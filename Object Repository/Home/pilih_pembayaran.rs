@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pilih_pembayaran</name>
+   <tag></tag>
+   <elementGuidId>83f34677-c0c4-47ae-85c9-54c707274309</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div/div[2]/main/section[2]/div/div/div[2]/div[3]/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div/div[2]/main/section[2]/div/div/div[2]/div[3]/div/div[2]/button</value>
+      <webElementGuid>63267621-9d21-4333-a834-ff87c59d176c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

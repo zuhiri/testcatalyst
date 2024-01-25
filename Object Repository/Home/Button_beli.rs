@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_beli</name>
+   <tag></tag>
+   <elementGuidId>b1072af7-d1a3-487d-bac5-a6ea6fc66b67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;btn-buy-now&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;btn-buy-now&quot;]</value>
+      <webElementGuid>895d66c9-c8ea-41cf-84b1-0ac363132884</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

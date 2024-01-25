@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OKE</name>
+   <tag></tag>
+   <elementGuidId>ed3493b2-f6b5-47e7-88b1-37a88d7f5381</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='driver-popover-item']/div[4]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.driver-close-btn.driver-close-only-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c67221b3-1dee-47a0-8ad9-a253c5eefef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>driver-close-btn driver-close-only-btn</value>
+      <webElementGuid>7e0e95bf-47b6-45ce-86a7-a090a4c97d62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OKE</value>
+      <webElementGuid>f26d1341-524a-4b16-abd3-c472ed2cf3f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;driver-popover-item&quot;)/div[@class=&quot;driver-clearfix driver-popover-footer&quot;]/button[@class=&quot;driver-close-btn driver-close-only-btn&quot;]</value>
+      <webElementGuid>6a371014-3176-4ee2-a3a4-807ba0399954</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='driver-popover-item']/div[4]/button</value>
+      <webElementGuid>c1d46d7e-58e6-40e1-8d0e-d02d572095cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>e5e6bc8d-4c11-4ecc-a2dd-6f4bb93253cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'OKE' or . = 'OKE')]</value>
+      <webElementGuid>088d50a1-525c-49e0-885f-f50106c42aad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

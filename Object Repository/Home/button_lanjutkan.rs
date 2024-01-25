@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_lanjutkan</name>
+   <tag></tag>
+   <elementGuidId>8070cf7d-3806-4f17-a1d7-def127a62195</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div/div[2]/div/div/section/div/div/div[3]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div/div[2]/div/div/section/div/div/div[3]/div/button</value>
+      <webElementGuid>f9893a2a-9934-49fd-b299-8f5d7e593c38</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

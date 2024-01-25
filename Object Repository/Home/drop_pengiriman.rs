@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>drop_pengiriman</name>
+   <tag></tag>
+   <elementGuidId>326d08e9-ddb7-4521-90a3-87650816fa6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div/div[2]/main/section[1]/div[2]/div[1]/div[2]/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div/div[2]/main/section[1]/div[2]/div[1]/div[2]/button/div</value>
+      <webElementGuid>077620a8-9284-44d8-91e4-ebd3c184df41</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

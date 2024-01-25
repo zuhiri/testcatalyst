@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_kota</name>
+   <tag></tag>
+   <elementGuidId>b780f810-ac5c-4f22-88bd-ed47f7eaa283</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;modal-root&quot;]/div/div/div/div/div/div/div/div/form/div[3]/div[1]/div/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;modal-root&quot;]/div/div/div/div/div/div/div/div/form/div[3]/div[1]/div/div/ul/li</value>
+      <webElementGuid>c2749c18-b198-4b2d-9ef5-fbc276958bd0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pay_VA</name>
+   <tag></tag>
+   <elementGuidId>dea74105-2d3a-4592-a502-d15560b87f5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div/div[2]/main/section[1]/div/div[2]/div[2]/div/div[1]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div/div[2]/main/section[1]/div/div[2]/div[2]/div/div[1]/div</value>
+      <webElementGuid>c2a45527-7684-4648-8d29-c9e46bda1a2b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

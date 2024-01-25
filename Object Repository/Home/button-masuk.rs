@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button-masuk</name>
+   <tag></tag>
+   <elementGuidId>829410c9-63fe-4790-a7c9-b0347016580a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;login-button&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;login-button&quot;]</value>
+      <webElementGuid>2b25005d-7557-46c3-9973-bed810afa8f3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

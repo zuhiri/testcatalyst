@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field_kota</name>
+   <tag></tag>
+   <elementGuidId>bd9e5b1f-fcf1-41a4-b9ca-84e5091d9f9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;modal-root&quot;]/div/div/div/div/div/div/div/div/form/div[3]/div[1]/fieldset/div[1]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;modal-root&quot;]/div/div/div/div/div/div/div/div/form/div[3]/div[1]/fieldset/div[1]/div/input</value>
+      <webElementGuid>93f74cc6-37a7-4460-ad3d-51a8316843b5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

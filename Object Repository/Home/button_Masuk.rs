@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Masuk</name>
+   <tag></tag>
+   <elementGuidId>066bfda5-2218-4eb0-9fd8-0f383cb10097</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mw-ripple-effect.btn.rounded.text-sm.relative.overflow-hidden.w-full.btn-filled.text-neutral-1000.bg-primary-1.uppercase.qa-login-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-root']/div/div/div/div/div/div/div/form/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;modal-root&quot;)/div[1]/div[@class=&quot;modal fixed h-full w-full top-0 left-0 flex items-center justify-center bg-neutral-1000 bg-opacity-50&quot;]/div[@class=&quot;content relative bg-clip-padding outline-none&quot;]/div[@class=&quot;body&quot;]/div[@class=&quot;relative rounded-4 modal-container-wrap p-6 my-8 max-w-md bg-neutral-900&quot;]/div[@class=&quot;login-form-container&quot;]/div[@class=&quot;mx-auto my-0 text-neutral-200 login-form-popup p-3&quot;]/form[1]/button[@class=&quot;mw-ripple-effect btn rounded text-sm relative overflow-hidden w-full btn-filled text-neutral-1000 bg-primary-1 uppercase qa-login-button&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f6bc235f-e585-4868-ba1f-bf433364c7f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-ripple-effect btn rounded text-sm relative overflow-hidden w-full btn-filled text-neutral-1000 bg-primary-1 uppercase qa-login-button</value>
+      <webElementGuid>f3ef916d-4cbb-4509-8972-5427ac18cf2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>aac520ea-8129-41d8-851d-61adf27f2f7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[1]/div[@class=&quot;modal fixed h-full w-full top-0 left-0 flex items-center justify-center bg-neutral-1000 bg-opacity-50&quot;]/div[@class=&quot;content relative bg-clip-padding outline-none&quot;]/div[@class=&quot;body&quot;]/div[@class=&quot;relative rounded-4 modal-container-wrap p-6 my-8 max-w-md bg-neutral-900&quot;]/div[@class=&quot;login-form-container&quot;]/div[@class=&quot;mx-auto my-0 text-neutral-200 login-form-popup p-3&quot;]/form[1]/button[@class=&quot;mw-ripple-effect btn rounded text-sm relative overflow-hidden w-full btn-filled text-neutral-1000 bg-primary-1 uppercase qa-login-button&quot;]</value>
+      <webElementGuid>0564f303-1c72-4c8b-bbff-988a07db5d48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-root']/div/div/div/div/div/div/div/form/button</value>
+      <webElementGuid>29917902-7179-49be-9060-30983c682abd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>63eeee2e-2f26-4e05-93fb-018cc0da42bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>34dba434-606f-4076-b262-868082af74de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

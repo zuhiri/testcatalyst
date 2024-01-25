@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_filter</name>
+   <tag></tag>
+   <elementGuidId>d6683543-e48f-413c-a6f5-125f1377e904</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;filter-price_-500000-1000000&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;filter-price_-500000-1000000&quot;]</value>
+      <webElementGuid>2e074edf-5833-44ab-b33d-e20e2c340e8e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

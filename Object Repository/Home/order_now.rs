@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>order_now</name>
+   <tag></tag>
+   <elementGuidId>c9cf2e08-870a-4d32-a6b6-b937f90fe59e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div/div[2]/main/section[2]/div[2]/div[3]/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div/div[2]/main/section[2]/div[2]/div[3]/div/div[2]/button</value>
+      <webElementGuid>91c940da-db20-4e48-b0ae-2dd88a9d8494</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

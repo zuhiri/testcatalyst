@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_simpan</name>
+   <tag></tag>
+   <elementGuidId>4ecc7a0b-635e-49a0-a6b1-dd02390907d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;modal-root&quot;]/div/div/div/div/div/div/div/div/form/div[5]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;modal-root&quot;]/div/div/div/div/div/div/div/div/form/div[5]/button</value>
+      <webElementGuid>04505b40-395e-4a3a-9957-f5e232f330ce</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

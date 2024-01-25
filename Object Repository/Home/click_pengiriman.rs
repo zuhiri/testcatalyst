@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_pengiriman</name>
+   <tag></tag>
+   <elementGuidId>a8e97788-3374-4314-8c98-c85bd1f4c66f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div/div[2]/main/section[1]/div[2]/div[2]/div/ul/li[1]/div/div[1]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div/div[2]/main/section[1]/div[2]/div[2]/div/ul/li[1]/div/div[1]/div[1]</value>
+      <webElementGuid>48d250ac-004b-4383-8d37-0e190ebb7c0d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
